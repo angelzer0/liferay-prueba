@@ -1,0 +1,4 @@
+Bundle-Name: user-list-portlet
+Bundle-SymbolicName: com.example.userlist
+Bundle-Version: 1.0.0
+Export-Package: com.example.userlist.constants
